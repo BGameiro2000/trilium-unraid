@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support></Support>
+  <Support>https://forums.unraid.net/topic/94979-trilium-docker/</Support>
   <Project>https://github.com/zadam/trilium</Project>
   <Overview>Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.&#xD;
   [br][br]&#xD;
