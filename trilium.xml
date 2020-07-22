@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support></Support>
+  <Support>https://forums.unraid.net/topic/94979-trilium-docker/</Support>
   <Project>https://github.com/zadam/trilium</Project>
   <Overview>Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases.&#xD;
   [br][br]&#xD;
@@ -65,5 +65,5 @@
   <Labels/>
   <Config Name="Host Path" Target="/root/trilium-data" Default="/mnt/user/appdata/trilium" Mode="rw" Description="Container Path: /root/trilium-data" Type="Path" Display="always" Required="true" Mask="false"/>
   <Config Name="WebUI" Target="8080" Default="8080" Mode="tcp" Description="WebUI - Default 8888" Type="Port" Display="always" Required="true" Mask="false">8888</Config>
-  <Config Name="Host Backup Path" Target="/root/trilium-data/backup" Default="/mnt/user/appdata/trilium/backup" Mode="rw" Description="Container Path: /root/trilium-data/backup" Type="Path" Display="always" Required="false" Mask="false"/>
+  <Config Name="Host Backup Path" Target="/root/trilium-data/backup" Default="/mnt/user/appdata/trilium/backup" Mode="rw" Description="Container Path: /root/trilium-data/backup" Type="Path" Display="always" Required="true" Mask="false"/>
 </Container>
