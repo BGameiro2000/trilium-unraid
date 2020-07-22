@@ -21,7 +21,7 @@
   [b]/root/trilium-data/backup[/b] Where Trilium should store the backups[br]</Overview>
   <Category>Productivity: Tools:Utilities</Category>
   <WebUI>http://[IP]:[PORT:8080]</WebUI>
-  <TemplateURL>https://github.com/BGameiro2000/trilium-unraid<TemplateURL/>
+  <TemplateURL>https://github.com/BGameiro2000/trilium-unraid</TemplateURL>
   <Icon>https://raw.githubusercontent.com/zadam/trilium/stable/images/app-icons/png/256x256.png</Icon>
   <ExtraParams/>
   <PostArgs/>
