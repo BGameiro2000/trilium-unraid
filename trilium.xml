@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <Container version="2">
   <Name>trilium</Name>
-  <Repository>zadam/trilium:0.43.2</Repository>
+  <Repository>zadam/trilium:0.43.3</Repository>
   <Registry>https://hub.docker.com/r/zadam/trilium</Registry>
   <Network>bridge</Network>
   <MyIP/>
